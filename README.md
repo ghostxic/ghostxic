@@ -1,26 +1,50 @@
-## Hey! 👋 I'm Michael Lee
+# Hi there, I'm Michael 👋
 
-I'm a Computer Science and Statistics major at the University of Illinois graduating in 2028/2029. I'm currently building my skills through personal and club-organized projects.
+### CS & Statistics @ University of Illinois | Class of 2028
 
-## Current Projects
+I'm passionate about building tools that make a real difference in people's daily lives. Whether it's simplifying how students find food or helping people schedule their day more naturally, I focus on creating solutions that improve quality of life.
 
-- Personal to-do list
+---
 
-  *Building a personalized to-do list with features that others lack*
+## 🚀 What I'm Working On
 
-- Eats@UIUC
+**Personal To-Do List**  
+Building a personalized task manager with features I wish other apps had.
 
-  *Yelp-like app to help students find food around campus*
+**Eats@UIUC**  
+A Yelp-style app designed specifically for UIUC students to discover great food around campus. Built through club collaboration. 
 
-- AI-Recycling Assistant
+**AI Recycling Assistant**  
+Training an ML model to identify and classify objects from camera scans as recyclable or non-recyclable, making sustainability more accessible. Built through club collaboration.
 
-  *Training ML model to recognize and classify camera-scanned objects as recyclable or non-recyclable*
+## 💻 Technologies I Use
 
-## Get in touch
+**Languages:** Python • C++ • Java • Kotlin • HTML • CSS  
+**Frameworks & Tools:** Flask • pandas • scikit-learn • TensorFlow
 
-michael.chr.lee@gmail.com | https://www.linkedin.com/in/michaelchristopherlee/
+## ⭐ Featured Project
 
-Thank you!
+### Natural Language Calendar App
+Developed a full-stack web application that lets users schedule Google Calendar events using plain English. No more clicking through date pickers. Just type "coffee with Sarah next Tuesday at 3pm" and you're done.
+
+*Built with NLP processing and Google Calendar API integration*
+
+---
+
+## 🏋️ Beyond Code
+
+When I'm not coding, you'll find me at the gym. Working out is a relatively new hobby for me, but staying consistent with it has been a game-changer for my life, both mentally and physically!
+
+---
+
+## 📫 Contact
+
+**Email:** michael.chr.lee@gmail.com  
+**LinkedIn:** [linkedin.com/in/michaelchristopherlee](https://www.linkedin.com/in/michaelchristopherlee/)
+
+---
+
+*Always learning.*
 
 <!--
 **ghostxic/ghostxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
