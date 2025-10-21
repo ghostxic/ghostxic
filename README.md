@@ -12,7 +12,7 @@ I'm passionate about building tools that make a real difference in people's dail
 Building a personalized task manager with features I wish other apps had.
 
 **Eats@UIUC**  
-A Yelp-style app designed specifically for UIUC students to discover great food around campus. Built through club collaboration. 
+A Yelp-style interactive data dashboard where UIUC students can explore food options on and off campus. Built through club collaboration. 
 
 **AI Recycling Assistant**  
 Training an ML model to identify and classify objects from camera scans as recyclable or non-recyclable, making sustainability more accessible. Built through club collaboration.
