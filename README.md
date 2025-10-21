@@ -2,7 +2,7 @@
 
 ### CS & Statistics @ University of Illinois | Class of 2028
 
-I'm passionate about building tools that make a real difference in people's daily lives. Whether it's simplifying how students find food or helping people schedule their day more naturally, I focus on creating solutions that improve quality of life.
+I'm passionate about building tools that make a real difference in people's daily lives. Whether it's simplifying how students find food or helping people schedule their day more easily, I focus on creating solutions that improve quality of life.
 
 ---
 
@@ -20,7 +20,7 @@ Training an ML model to identify and classify objects from camera scans as recyc
 ## 💻 Technologies I Use
 
 **Languages:** Python • C++ • Java • Kotlin • HTML • CSS  
-**Frameworks & Tools:** Flask • pandas • scikit-learn • TensorFlow
+**Frameworks & Tools:** Flask • Pandas • Scikit-learn • TensorFlow
 
 ## ⭐ Featured Project
 
